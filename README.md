@@ -1,28 +1,7 @@
 ## Hi I'm Mubashir 👋
 📍Sydney, Australia | 🤖 Generative AI Enthusiast
+
 Now at **Zimble.io** working on AI driven solutions, building using AI on the side.
-
-# Syed Mubashir Ahmed
-
-Masters student in AI at Macquarie University, based in Sydney. I build full-stack apps and machine learning projects. Before moving into AI work, I spent a year as a software engineer on SAP and Power BI systems at a steel manufacturer.
-
-## Now
-
-- AI intern at [Zimble.io](https://zimble.io), building an API testing service in TypeScript and Fastify. It reads an OpenAPI spec plus a plain-English goal and generates adversarial test scenarios.
-- Finishing a Masters of Information Technology (Artificial Intelligence) at Macquarie, WAM 82.417.
-- Shipping side projects with Next.js, Supabase and LLM APIs.
-
-## Featured project
-
-### AI wedding planner
-
-Full-stack wedding management platform. [View the repo](https://github.com/Mubashir9/weddingplanner).
-
-- Built with Next.js 16 (App Router), TypeScript, Supabase (Postgres and Auth) and Tailwind CSS. Deployed on Vercel.
-- Streams chat responses from Google Gemini 2.5 Flash with the full wedding context injected. A separate nudge feature caches its AI output for 6 hours to keep API costs down.
-- Row Level Security on every table, vendors that link to budget lines automatically, and real-time collaborative state.
-
-## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -48,7 +27,24 @@ Full-stack wedding management platform. [View the repo](https://github.com/Mubas
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-Also: Pandas, NumPy, Matplotlib, Seaborn, MySQL, SQLite, SAP ABAP, Git. I use the AI coding tools above daily.
+Masters student in AI at Macquarie University, based in Sydney. I build full-stack apps and machine learning projects. Before moving into AI work, I spent a couple of years as a software engineer on SAP and Power BI systems at a steel manufacturer.
+
+## Now
+
+- AI intern at [Zimble.io](https://zimble.io), building an API testing service in TypeScript and Fastify. It reads an OpenAPI spec plus a plain-English goal and generates adversarial test scenarios.
+- Finishing a Masters of Information Technology (Artificial Intelligence) at Macquarie, WAM 82.417.
+- Shipping side projects with Next.js, Supabase and LLM APIs.
+
+## What am I working on?
+
+### Youtube RAG
+
+A RAG application for Youtube Videos!. [View the repo](https://github.com/Mubashir9/YoutubeRAG).
+
+- Built with Python, the app allows you to query Youtube videos to find relevant timestamps in a video.
+- Ranks top 5 relevant timestamps using hybrid retrieval technique.
+- Clicking on a relevant timestamp takes you to the exact moment in the video.
+
 
 ## Experience
 
