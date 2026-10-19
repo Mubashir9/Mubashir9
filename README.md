@@ -32,8 +32,8 @@ Masters student in AI at Macquarie University, based in Sydney. I build full-sta
 ## Now
 
 - AI intern at [Zimble.io](https://zimble.io), building an API testing service in TypeScript and Fastify. It reads an OpenAPI spec plus a plain-English goal and generates adversarial test scenarios.
-- Finishing a Masters of Information Technology (Artificial Intelligence) at Macquarie, WAM 82.417.
-- Shipping side projects with Next.js, Supabase and LLM APIs.
+- Finishing a Masters of Information Technology (Artificial Intelligence) at Macquarie University in Sydney.
+- Building side projects utilizing AI technologies.
 
 ## What am I working on?
 
